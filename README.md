@@ -25,7 +25,6 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <ссылка-на-репозиторий>
-   cd <папка-проекта>
+   git clone https://github.com/Fatima38278857/Library
   
    
